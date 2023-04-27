@@ -1,5 +1,11 @@
 {
+  "name": "react-native-thing",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
-    "expo": "^48.0.15"
+    "@react-native-picker/picker": "^2.4.10",
+    "expo": "^48.0.15",
+    "react": "^18.2.0",
+    "react-native": "^0.71.7"
   }
 }
